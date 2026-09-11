@@ -4,9 +4,9 @@ A ride-hailing and delivery app for Aba, Abia State, Nigeria, built with React N
 
 <div align="center">
 
-<img src="assets/images/screenshots/dashboard.png" width="230" alt="Rider home, with the map of Aba and the service carousel" />
-<img src="assets/images/screenshots/Screenshot_1787847242.png" width="230" alt="Suggest your price, with the fare slider" />
-<img src="assets/images/screenshots/Screenshot_1789052022.png" width="230" alt="Driver online, with the feed of nearby requests" />
+<img src="images/screenshots/dashboard.png" width="230" alt="Rider home, with the map of Aba and the service carousel" />
+<img src="images/screenshots/Screenshot_1787847242.png" width="230" alt="Suggest your price, with the fare slider" />
+<img src="images/screenshots/Screenshot_1789052022.png" width="230" alt="Driver online, with the feed of nearby requests" />
 
 </div>
 
@@ -111,7 +111,7 @@ Go, XL, Keke and Bike appear in the grid at the top of the service picker. The r
 > **Note:** the *Choose a service* screenshot below was captured before Padi Van Delivery was added, so it shows six. The catalogue in the code currently defines seven.
 
 <div align="center">
-<img src="assets/images/screenshots/Screenshot_1787846924.png" width="260" alt="The service picker" />
+<img src="images/screenshots/Screenshot_1787846924.png" width="260" alt="The service picker" />
 </div>
 
 ---
@@ -149,8 +149,8 @@ Reached from **Account → Become a Driver**, which forks first, because "driver
 
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1789053445.png" width="215" alt="Become a Driver: the passenger vehicles" />
-<img src="assets/images/screenshots/Screenshot_1789053515.png" width="215" alt="Become a Delivery Partner: the parcel vehicles" />
+<img src="images/screenshots/Screenshot_1789053445.png" width="215" alt="Become a Driver: the passenger vehicles" />
+<img src="images/screenshots/Screenshot_1789053515.png" width="215" alt="Become a Delivery Partner: the parcel vehicles" />
 
 </div>
 
@@ -196,9 +196,9 @@ Tapping a row **expands it in place** rather than covering the feed, so the alte
 
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1789052022.png" width="215" alt="The feed of nearby requests" />
-<img src="assets/images/screenshots/Screenshot_1789052026.png" width="215" alt="Expanded at the rider price" />
-<img src="assets/images/screenshots/Screenshot_1789052044.png" width="215" alt="Expanded with the price moved" />
+<img src="images/screenshots/Screenshot_1789052022.png" width="215" alt="The feed of nearby requests" />
+<img src="images/screenshots/Screenshot_1789052026.png" width="215" alt="Expanded at the rider price" />
+<img src="images/screenshots/Screenshot_1789052044.png" width="215" alt="Expanded with the price moved" />
 
 </div>
 
@@ -210,9 +210,9 @@ Vehicle Information and Documents each have a **view** screen and an **update** 
 
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1789052349.png" width="215" alt="The vehicle on file" />
-<img src="assets/images/screenshots/Screenshot_1789052459.png" width="215" alt="Update Documents" />
-<img src="assets/images/screenshots/Screenshot_1789052390.png" width="215" alt="Submitted, and under review" />
+<img src="images/screenshots/Screenshot_1789052349.png" width="215" alt="The vehicle on file" />
+<img src="images/screenshots/Screenshot_1789052459.png" width="215" alt="Update Documents" />
+<img src="images/screenshots/Screenshot_1789052390.png" width="215" alt="Submitted, and under review" />
 
 </div>
 
@@ -232,9 +232,9 @@ Submitting either produces a confirmation with a reference (`VEH-…` or `DOC-�
 
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1789051932.png" width="215" alt="Earnings, with its own link through to the wallet" />
-<img src="assets/images/screenshots/Screenshot_1789051915.png" width="215" alt="Home, carrying what is owed on cash fares" />
-<img src="assets/images/screenshots/Screenshot_1789052158.png" width="215" alt="A settled fare, split" />
+<img src="images/screenshots/Screenshot_1789051932.png" width="215" alt="Earnings, with its own link through to the wallet" />
+<img src="images/screenshots/Screenshot_1789051915.png" width="215" alt="Home, carrying what is owed on cash fares" />
+<img src="images/screenshots/Screenshot_1789052158.png" width="215" alt="A settled fare, split" />
 
 </div>
 
@@ -340,24 +340,24 @@ The following are **product rules**, described here so the intent is on record. 
 
 85 screens: 8 auth and onboarding, 27 driver and delivery partner (26 in `(driver)` plus `become-courier`), 49 rider, and 1 shared route planner. Excludes the six layout files and `(tabs)/explore.tsx`, which is unused `create-expo-app` scaffolding.
 
-75 of the screenshots in `assets/images/screenshots/` are used below, grouped by what part of the app they belong to. Every gallery is collapsed; open the one you want.
+75 of the screenshots in `images/screenshots/` are used below, grouped by what part of the app they belong to. Every gallery is collapsed; open the one you want.
 
 <details>
 <summary><b>Rider · booking a trip</b></summary>
 <br />
 <div align="center">
 
-<img src="assets/images/screenshots/dashboard.png" width="200" alt="Home: the map of Aba and the service carousel" />
-<img src="assets/images/screenshots/Screenshot_1787846924.png" width="200" alt="Choose a service" />
-<img src="assets/images/screenshots/Screenshot_1787847232.png" width="200" alt="Plan your trip: recents, saved places and shortcuts" />
+<img src="images/screenshots/dashboard.png" width="200" alt="Home: the map of Aba and the service carousel" />
+<img src="images/screenshots/Screenshot_1787846924.png" width="200" alt="Choose a service" />
+<img src="images/screenshots/Screenshot_1787847232.png" width="200" alt="Plan your trip: recents, saved places and shortcuts" />
 
-<img src="assets/images/screenshots/Screenshot_1787847242.png" width="200" alt="Suggest your price: the slider and the other services" />
-<img src="assets/images/screenshots/Screenshot_1787847249.png" width="200" alt="Payment method, how it works, and the two-minute clock" />
-<img src="assets/images/screenshots/Screenshot_1787847253.png" width="200" alt="Ride preferences that travel with the offer" />
+<img src="images/screenshots/Screenshot_1787847242.png" width="200" alt="Suggest your price: the slider and the other services" />
+<img src="images/screenshots/Screenshot_1787847249.png" width="200" alt="Payment method, how it works, and the two-minute clock" />
+<img src="images/screenshots/Screenshot_1787847253.png" width="200" alt="Ride preferences that travel with the offer" />
 
-<img src="assets/images/screenshots/Screenshot_1787847274.png" width="200" alt="The shortlist: each driver against your price" />
-<img src="assets/images/screenshots/Screenshot_1787847297.png" width="200" alt="Declining a driver, with a reason" />
-<img src="assets/images/screenshots/Screenshot_1787847328.png" width="200" alt="Driver details, ratings and verification" />
+<img src="images/screenshots/Screenshot_1787847274.png" width="200" alt="The shortlist: each driver against your price" />
+<img src="images/screenshots/Screenshot_1787847297.png" width="200" alt="Declining a driver, with a reason" />
+<img src="images/screenshots/Screenshot_1787847328.png" width="200" alt="Driver details, ratings and verification" />
 
 </div>
 
@@ -368,16 +368,16 @@ The following are **product rules**, described here so the intent is on record. 
 <br />
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1787847259.png" width="200" alt="Driver accepted and on the way" />
-<img src="assets/images/screenshots/Screenshot_1787847315.png" width="200" alt="Chat with the driver" />
-<img src="assets/images/screenshots/Screenshot_1787847319.png" width="200" alt="Calling the driver" />
+<img src="images/screenshots/Screenshot_1787847259.png" width="200" alt="Driver accepted and on the way" />
+<img src="images/screenshots/Screenshot_1787847315.png" width="200" alt="Chat with the driver" />
+<img src="images/screenshots/Screenshot_1787847319.png" width="200" alt="Calling the driver" />
 
-<img src="assets/images/screenshots/Screenshot_1787847325.png" width="200" alt="Trip options: details, share, report, block" />
-<img src="assets/images/screenshots/Screenshot_1787847508.png" width="200" alt="Cancelling, with reasons and the free-cancellation note" />
-<img src="assets/images/screenshots/Screenshot_1787847515.png" width="200" alt="Safety, with the driver verification panel" />
+<img src="images/screenshots/Screenshot_1787847325.png" width="200" alt="Trip options: details, share, report, block" />
+<img src="images/screenshots/Screenshot_1787847508.png" width="200" alt="Cancelling, with reasons and the free-cancellation note" />
+<img src="images/screenshots/Screenshot_1787847515.png" width="200" alt="Safety, with the driver verification panel" />
 
-<img src="assets/images/screenshots/Screenshot_1787847528.png" width="200" alt="Rides: ongoing and past" />
-<img src="assets/images/screenshots/Screenshot_1787847535.png" width="200" alt="Filtering by status, date, payment and service" />
+<img src="images/screenshots/Screenshot_1787847528.png" width="200" alt="Rides: ongoing and past" />
+<img src="images/screenshots/Screenshot_1787847535.png" width="200" alt="Filtering by status, date, payment and service" />
 
 </div>
 
@@ -388,12 +388,12 @@ The following are **product rules**, described here so the intent is on record. 
 <br />
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1787847555.png" width="200" alt="Padi Wallet" />
-<img src="assets/images/screenshots/Screenshot_1787847589.png" width="200" alt="Payment methods and saved cards" />
-<img src="assets/images/screenshots/Screenshot_1787847668.png" width="200" alt="Wallet PIN, auto-lock and biometrics" />
+<img src="images/screenshots/Screenshot_1787847555.png" width="200" alt="Padi Wallet" />
+<img src="images/screenshots/Screenshot_1787847589.png" width="200" alt="Payment methods and saved cards" />
+<img src="images/screenshots/Screenshot_1787847668.png" width="200" alt="Wallet PIN, auto-lock and biometrics" />
 
-<img src="assets/images/screenshots/Screenshot_1787847695.png" width="200" alt="Padi Credits" />
-<img src="assets/images/screenshots/Screenshot_1787847687.png" width="200" alt="Refer a friend" />
+<img src="images/screenshots/Screenshot_1787847695.png" width="200" alt="Padi Credits" />
+<img src="images/screenshots/Screenshot_1787847687.png" width="200" alt="Refer a friend" />
 
 </div>
 
@@ -404,20 +404,20 @@ The following are **product rules**, described here so the intent is on record. 
 <br />
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1787847545.png" width="200" alt="Account" />
-<img src="assets/images/screenshots/Screenshot_1787847626.png" width="200" alt="Personal information and verification" />
-<img src="assets/images/screenshots/Screenshot_1787847632.png" width="200" alt="Editing a detail through a sheet" />
+<img src="images/screenshots/Screenshot_1787847545.png" width="200" alt="Account" />
+<img src="images/screenshots/Screenshot_1787847626.png" width="200" alt="Personal information and verification" />
+<img src="images/screenshots/Screenshot_1787847632.png" width="200" alt="Editing a detail through a sheet" />
 
-<img src="assets/images/screenshots/Screenshot_1787847680.png" width="200" alt="Accessibility" />
-<img src="assets/images/screenshots/Screenshot_1787847705.png" width="200" alt="Privacy choices" />
-<img src="assets/images/screenshots/Screenshot_1787847714.png" width="200" alt="Logging out" />
+<img src="images/screenshots/Screenshot_1787847680.png" width="200" alt="Accessibility" />
+<img src="images/screenshots/Screenshot_1787847705.png" width="200" alt="Privacy choices" />
+<img src="images/screenshots/Screenshot_1787847714.png" width="200" alt="Logging out" />
 
-<img src="assets/images/screenshots/Screenshot_1787847548.png" width="200" alt="Account: safety, promotions, privacy and legal" />
-<img src="assets/images/screenshots/Screenshot_1787847674.png" width="200" alt="Notification settings, by channel and by kind" />
+<img src="images/screenshots/Screenshot_1787847548.png" width="200" alt="Account: safety, promotions, privacy and legal" />
+<img src="images/screenshots/Screenshot_1787847674.png" width="200" alt="Notification settings, by channel and by kind" />
 
-<img src="assets/images/screenshots/Screenshot_1787847560.png" width="200" alt="Messages, filtered by kind" />
-<img src="assets/images/screenshots/Screenshot_1787847568.png" width="200" alt="Help and support" />
-<img src="assets/images/screenshots/Screenshot_1787847573.png" width="200" alt="Support chat, with a resolved request" />
+<img src="images/screenshots/Screenshot_1787847560.png" width="200" alt="Messages, filtered by kind" />
+<img src="images/screenshots/Screenshot_1787847568.png" width="200" alt="Help and support" />
+<img src="images/screenshots/Screenshot_1787847573.png" width="200" alt="Support chat, with a resolved request" />
 
 </div>
 
@@ -428,13 +428,13 @@ The following are **product rules**, described here so the intent is on record. 
 <br />
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1789051915.png" width="200" alt="Driver home, with commission owed" />
-<img src="assets/images/screenshots/Screenshot_1789051932.png" width="200" alt="Earnings, with the breakdown ring and a link to the wallet" />
-<img src="assets/images/screenshots/Screenshot_1789051945.png" width="200" alt="Earnings over a longer period" />
+<img src="images/screenshots/Screenshot_1789051915.png" width="200" alt="Driver home, with commission owed" />
+<img src="images/screenshots/Screenshot_1789051932.png" width="200" alt="Earnings, with the breakdown ring and a link to the wallet" />
+<img src="images/screenshots/Screenshot_1789051945.png" width="200" alt="Earnings over a longer period" />
 
-<img src="assets/images/screenshots/Screenshot_1789051968.png" width="200" alt="Trips: counts, types and history" />
-<img src="assets/images/screenshots/Screenshot_1789052007.png" width="200" alt="Help, and the five-tab bar" />
-<img src="assets/images/screenshots/Screenshot_1789052014.png" width="200" alt="The notifications sheet" />
+<img src="images/screenshots/Screenshot_1789051968.png" width="200" alt="Trips: counts, types and history" />
+<img src="images/screenshots/Screenshot_1789052007.png" width="200" alt="Help, and the five-tab bar" />
+<img src="images/screenshots/Screenshot_1789052014.png" width="200" alt="The notifications sheet" />
 
 </div>
 
@@ -445,20 +445,20 @@ The following are **product rules**, described here so the intent is on record. 
 <br />
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1789052022.png" width="200" alt="Online: ten nearby requests, sorted by distance" />
-<img src="assets/images/screenshots/Screenshot_1789052026.png" width="200" alt="A request expanded at the rider’s price: Accept ride" />
-<img src="assets/images/screenshots/Screenshot_1789052044.png" width="200" alt="The same request with the price moved: Send price" />
+<img src="images/screenshots/Screenshot_1789052022.png" width="200" alt="Online: ten nearby requests, sorted by distance" />
+<img src="images/screenshots/Screenshot_1789052026.png" width="200" alt="A request expanded at the rider’s price: Accept ride" />
+<img src="images/screenshots/Screenshot_1789052044.png" width="200" alt="The same request with the price moved: Send price" />
 
-<img src="assets/images/screenshots/Screenshot_1789052053.png" width="200" alt="The rider took the counter, so the job is on" />
-<img src="assets/images/screenshots/Screenshot_1789052062.png" width="200" alt="Driving to the pickup" />
-<img src="assets/images/screenshots/Screenshot_1789052082.png" width="200" alt="At the kerb, waiting on the rider" />
+<img src="images/screenshots/Screenshot_1789052053.png" width="200" alt="The rider took the counter, so the job is on" />
+<img src="images/screenshots/Screenshot_1789052062.png" width="200" alt="Driving to the pickup" />
+<img src="images/screenshots/Screenshot_1789052082.png" width="200" alt="At the kerb, waiting on the rider" />
 
-<img src="assets/images/screenshots/Screenshot_1789052093.png" width="200" alt="The trip itself" />
-<img src="assets/images/screenshots/Screenshot_1789052104.png" width="200" alt="Chat with the rider" />
-<img src="assets/images/screenshots/Screenshot_1789052115.png" width="200" alt="Calling the rider" />
+<img src="images/screenshots/Screenshot_1789052093.png" width="200" alt="The trip itself" />
+<img src="images/screenshots/Screenshot_1789052104.png" width="200" alt="Chat with the rider" />
+<img src="images/screenshots/Screenshot_1789052115.png" width="200" alt="Calling the rider" />
 
-<img src="assets/images/screenshots/Screenshot_1789052148.png" width="200" alt="Trip completed" />
-<img src="assets/images/screenshots/Screenshot_1789052158.png" width="200" alt="The fare, the 30% share, and what reached the wallet" />
+<img src="images/screenshots/Screenshot_1789052148.png" width="200" alt="Trip completed" />
+<img src="images/screenshots/Screenshot_1789052158.png" width="200" alt="The fare, the 30% share, and what reached the wallet" />
 
 </div>
 
@@ -469,13 +469,13 @@ The following are **product rules**, described here so the intent is on record. 
 <br />
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1789052178.png" width="200" alt="The menu drawer, on every driver screen" />
-<img src="assets/images/screenshots/Screenshot_1789052198.png" width="200" alt="Bank accounts, with one marked primary" />
-<img src="assets/images/screenshots/Screenshot_1789052208.png" width="200" alt="What a saved account can do" />
+<img src="images/screenshots/Screenshot_1789052178.png" width="200" alt="The menu drawer, on every driver screen" />
+<img src="images/screenshots/Screenshot_1789052198.png" width="200" alt="Bank accounts, with one marked primary" />
+<img src="images/screenshots/Screenshot_1789052208.png" width="200" alt="What a saved account can do" />
 
-<img src="assets/images/screenshots/Screenshot_1789052229.png" width="200" alt="PadiRide Account: paying cash commission back" />
-<img src="assets/images/screenshots/Screenshot_1789052248.png" width="200" alt="The account number, on its rotation" />
-<img src="assets/images/screenshots/Screenshot_1789052265.png" width="200" alt="Notification settings, shared with the rider app" />
+<img src="images/screenshots/Screenshot_1789052229.png" width="200" alt="PadiRide Account: paying cash commission back" />
+<img src="images/screenshots/Screenshot_1789052248.png" width="200" alt="The account number, on its rotation" />
+<img src="images/screenshots/Screenshot_1789052265.png" width="200" alt="Notification settings, shared with the rider app" />
 
 </div>
 
@@ -486,16 +486,16 @@ The following are **product rules**, described here so the intent is on record. 
 <br />
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1789052349.png" width="200" alt="The vehicle on file" />
-<img src="assets/images/screenshots/Screenshot_1789052352.png" width="200" alt="Its photos, video and registration" />
-<img src="assets/images/screenshots/Screenshot_1789052366.png" width="200" alt="Updating it" />
+<img src="images/screenshots/Screenshot_1789052349.png" width="200" alt="The vehicle on file" />
+<img src="images/screenshots/Screenshot_1789052352.png" width="200" alt="Its photos, video and registration" />
+<img src="images/screenshots/Screenshot_1789052366.png" width="200" alt="Updating it" />
 
-<img src="assets/images/screenshots/Screenshot_1789052390.png" width="200" alt="Vehicle update submitted, with reference and tracker" />
-<img src="assets/images/screenshots/Screenshot_1789052447.png" width="200" alt="Documents and their verification state" />
-<img src="assets/images/screenshots/Screenshot_1789052459.png" width="200" alt="Updating documents" />
+<img src="images/screenshots/Screenshot_1789052390.png" width="200" alt="Vehicle update submitted, with reference and tracker" />
+<img src="images/screenshots/Screenshot_1789052447.png" width="200" alt="Documents and their verification state" />
+<img src="images/screenshots/Screenshot_1789052459.png" width="200" alt="Updating documents" />
 
-<img src="assets/images/screenshots/Screenshot_1789052470.png" width="200" alt="Documents update submitted" />
-<img src="assets/images/screenshots/Screenshot_1789052488.png" width="200" alt="Driver help and support" />
+<img src="images/screenshots/Screenshot_1789052470.png" width="200" alt="Documents update submitted" />
+<img src="images/screenshots/Screenshot_1789052488.png" width="200" alt="Driver help and support" />
 
 </div>
 
@@ -506,20 +506,20 @@ The following are **product rules**, described here so the intent is on record. 
 <br />
 <div align="center">
 
-<img src="assets/images/screenshots/Screenshot_1789053439.png" width="200" alt="Earn with Padi: the fork between the two lanes" />
-<img src="assets/images/screenshots/Screenshot_1789053445.png" width="200" alt="Step 1 on the driving lane: choose a service" />
-<img src="assets/images/screenshots/Screenshot_1789053515.png" width="200" alt="Step 1 on the delivery lane" />
+<img src="images/screenshots/Screenshot_1789053439.png" width="200" alt="Earn with Padi: the fork between the two lanes" />
+<img src="images/screenshots/Screenshot_1789053445.png" width="200" alt="Step 1 on the driving lane: choose a service" />
+<img src="images/screenshots/Screenshot_1789053515.png" width="200" alt="Step 1 on the delivery lane" />
 
-<img src="assets/images/screenshots/Screenshot_1789053453.png" width="200" alt="Step 2: what is already verified, and what is still needed" />
-<img src="assets/images/screenshots/Screenshot_1789053540.png" width="200" alt="Step 3: documents" />
-<img src="assets/images/screenshots/Screenshot_1789053473.png" width="200" alt="Step 4: photos, video and registration" />
+<img src="images/screenshots/Screenshot_1789053453.png" width="200" alt="Step 2: what is already verified, and what is still needed" />
+<img src="images/screenshots/Screenshot_1789053540.png" width="200" alt="Step 3: documents" />
+<img src="images/screenshots/Screenshot_1789053473.png" width="200" alt="Step 4: photos, video and registration" />
 
-<img src="assets/images/screenshots/Screenshot_1789053672.png" width="200" alt="Step 4 on the delivery lane" />
-<img src="assets/images/screenshots/Screenshot_1789053676.png" width="200" alt="Step 4: the vehicle details" />
-<img src="assets/images/screenshots/Screenshot_1789053715.png" width="200" alt="Step 5 on the delivery lane" />
+<img src="images/screenshots/Screenshot_1789053672.png" width="200" alt="Step 4 on the delivery lane" />
+<img src="images/screenshots/Screenshot_1789053676.png" width="200" alt="Step 4: the vehicle details" />
+<img src="images/screenshots/Screenshot_1789053715.png" width="200" alt="Step 5 on the delivery lane" />
 
-<img src="assets/images/screenshots/Screenshot_1789053484.png" width="200" alt="Step 5: review, with what is still missing" />
-<img src="assets/images/screenshots/Screenshot_1789053736.png" width="200" alt="Driver sign-in" />
+<img src="images/screenshots/Screenshot_1789053484.png" width="200" alt="Step 5: review, with what is still missing" />
+<img src="images/screenshots/Screenshot_1789053736.png" width="200" alt="Driver sign-in" />
 
 </div>
 
@@ -734,7 +734,7 @@ Once on the dashboard:
 ```
 padiride/
 ├── app.json                     # Expo configuration
-├── assets/images/
+├── images/
 │   ├── carimage/                # Vehicle photographs
 │   ├── onboarding/              # Onboarding artwork
 │   └── screenshots/             # The screenshots in this README
